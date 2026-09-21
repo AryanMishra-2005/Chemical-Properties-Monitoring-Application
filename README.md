@@ -1,4 +1,4 @@
-Steps to run this application:-
+Steps to run this application:-\
   (1) Clone this repo using:-
         git clone https://github.com/AryanMishra-2005/Chemical-Properties-Monitoring-Application.git
   (2) Launch the full app (Dashboard + Chatbot):-
